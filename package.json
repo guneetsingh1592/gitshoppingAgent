@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^4.3.0",
     "request": "^2.81.0",
     "restify": "^5.2.0"
   }
